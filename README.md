@@ -12,3 +12,8 @@ Porta 2 = DATA
 Porta 3 = ENABLE
 
 Porta 4 = CLOCK
+
+__Resultado__ 
+
+![alt text](https://github.com/RecursiveError/595LCD/blob/main/n34102.jpg)
+
