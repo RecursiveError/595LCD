@@ -3,7 +3,7 @@
 Projeto final do topico IO 
 Repositorio: https://github.com/RecursiveError/AVR
 
-Classe para comunicação com display alfanumerio usando apenas 3 pinos digitais com 0 shift-register 74hc595 
+Classe para comunicação com display alfanumerio usando apenas 3 pinos digitais com o shift-register 74hc595 
 
 ![alt text](https://github.com/RecursiveError/595LCD/blob/main/Esquema.png?raw=true)
 
